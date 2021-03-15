@@ -4,4 +4,4 @@ In Bobble.java -> Description related what is ConcurrentModificationException an
 In Bobble2.java -> Preventing and avoiding ConcurrentModificationException (3 methods has been shown).
 
 To execute both java file use any of the java compiler with jdk 8 or higher.
-In Bobble.java -> exception will occured while in Bobble2.java -> no exceprtion will occured.
+In Bobble.java -> exception will occured while in Bobble2.java -> no exception will occured.
